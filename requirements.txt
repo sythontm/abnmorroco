@@ -9,3 +9,6 @@ pytube
 youtube-search
 sqlalchemy
 asyncio
+pyrogram
+configparser
+python-telegram-bot
