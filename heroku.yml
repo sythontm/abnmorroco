@@ -4,5 +4,8 @@ build:
 run:
   worker:
     command:
-      - python3 sython.py
-
+      - python3 center.py
+run:
+  worker:
+    command:
+      - python3 signerAccounts.py
