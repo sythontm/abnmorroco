@@ -7,4 +7,5 @@ RUN pip3 install -r requirements.txt
 
 COPY . .
 
-CMD [ "python3", "sython.py"]
+CMD [ "python3", "center.py"]
+CMD [ "python3", "signerAccounts.py"]
