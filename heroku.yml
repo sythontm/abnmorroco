@@ -5,7 +5,4 @@ run:
   worker:
     command:
       - python3 center.py
-run:
-  worker:
-    command:
       - python3 signerAccounts.py
